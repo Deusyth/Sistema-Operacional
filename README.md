@@ -1,4 +1,4 @@
-Este repositório contém os arquivos e instruções referentes à atividade prática de virtualização da disciplina **Sistema Operacional**
+Este repositório contém os arquivos e instruções referentes à atividade prática de virtualização da disciplina **Sistema Operacional**, parte do curso de Análise e Desenvolvimento de Sistemas.
 
 ## Professor Responsável
 
